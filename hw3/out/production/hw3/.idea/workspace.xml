@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6120574a-4f9c-459b-9b3c-2cdbc6a51cb9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../lab6/TestUnionFind.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clab7/ExperimentHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../clab7/ExperimentHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1/es/datastructur/synthesizer/ArrayRingBuffer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hw1/es/datastructur/synthesizer/ArrayRingBuffer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1/es/datastructur/synthesizer/GuitarString.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hw1/es/datastructur/synthesizer/GuitarString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1/es/datastructur/synthesizer/TestArrayRingBuffer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hw1/es/datastructur/synthesizer/TestArrayRingBuffer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1/es/datastructur/synthesizer/TestGuitarString.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hw1/es/datastructur/synthesizer/TestGuitarString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw2/hw2/InteractivePercolationVisualizer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hw2/hw2/InteractivePercolationVisualizer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw2/hw2/Percolation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hw2/hw2/Percolation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw2/hw2/PercolationStats.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hw2/hw2/PercolationStats.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw2/hw2/PercolationVisualizer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hw2/hw2/PercolationVisualizer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw3/hash/HashTableVisualizer.java" beforeDir="false" afterPath="$PROJECT_DIR$/hw3/hash/HashTableVisualizer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw3/hash/OomageTestUtility.java" beforeDir="false" afterPath="$PROJECT_DIR$/hw3/hash/OomageTestUtility.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw3/hash/SimpleOomage.java" beforeDir="false" afterPath="$PROJECT_DIR$/hw3/hash/SimpleOomage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw3/hash/TestComplexOomage.java" beforeDir="false" afterPath="$PROJECT_DIR$/hw3/hash/TestComplexOomage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw3/hash/TestSimpleOomage.java" beforeDir="false" afterPath="$PROJECT_DIR$/hw3/hash/TestSimpleOomage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2/Intlist/IntList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2/Intlist/IntList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/Flik/Flik.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3/Flik/Flik.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/IntList/IntListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3/IntList/IntListTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab5/creatures/Plip.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab5/creatures/Plip.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab5/creatures/TestPlip.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab5/creatures/TestPlip.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab5/huglife/HugLife.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab5/huglife/HugLife.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab6/UnionFind.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab6/UnionFind.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab8/TestMyHashMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab8/TestMyHashMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proj0/examples/StdDrawDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../proj0/examples/StdDrawDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proj1a/LinkedListDequeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../proj1a/LinkedListDequeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proj1b/PalindromeFinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/../proj1b/PalindromeFinder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proj1b/TestOffByOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/../proj1b/TestOffByOne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proj1b/TestPalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/../proj1b/TestPalindrome.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/hw3/hash/ComplexOomage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="327">
+              <caret line="28" column="5" lean-forward="true" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hw3/hash/SimpleOomage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="18" column="24" lean-forward="true" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hw3/hash/TestComplexOomage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="110">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hw3/hash/Hint.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="44">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/hw3/hash/SimpleOomage.java" />
+        <option value="$PROJECT_DIR$/hw3/hash/OomageTestUtility.java" />
+        <option value="$PROJECT_DIR$/hw3/hash/TestSimpleOomage.java" />
+        <option value="$PROJECT_DIR$/hw3/hash/HashTableVisualizer.java" />
+        <option value="$PROJECT_DIR$/hw3/hash/TestComplexOomage.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="y" value="25" />
+    <option name="width" value="1440" />
+    <option name="height" value="820" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="hw3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hw3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hw3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hw3" type="462c0819:PsiDirectoryNode" />
+              <item name="hash" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.TestSimpleOomage">
+    <configuration name="HashTableVisualizer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hw3.hash.HashTableVisualizer" />
+      <module name="hw3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hw3.hash.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Hint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hw3.hash.Hint" />
+      <module name="hw3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hw3.hash.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestComplexOomage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hw3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hw3.hash.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="hw3.hash" />
+      <option name="MAIN_CLASS_NAME" value="hw3.hash.TestComplexOomage" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestNiceSpreadOomage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hw3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hw3.hash.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="hw3.hash" />
+      <option name="MAIN_CLASS_NAME" value="hw3.hash.TestNiceSpreadOomage" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSimpleOomage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hw3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hw3.hash.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="hw3.hash" />
+      <option name="MAIN_CLASS_NAME" value="hw3.hash.TestSimpleOomage" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestSimpleOomage" />
+        <item itemvalue="Application.Hint" />
+        <item itemvalue="JUnit.TestComplexOomage" />
+        <item itemvalue="Application.HashTableVisualizer" />
+        <item itemvalue="JUnit.TestNiceSpreadOomage" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6120574a-4f9c-459b-9b3c-2cdbc6a51cb9" name="Default Changelist" comment="" />
+      <created>1585344471573</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585344471573</updated>
+      <workItem from="1585344474444" duration="11071000" />
+      <workItem from="1621801981369" duration="329000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="TestJankyOomage - 2020.03.31 at 18h 29m 05s.xml">
+      <configuration name="TestJankyOomage" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestNiceSpreadOomage - 2020.03.31 at 18h 29m 16s.xml">
+      <configuration name="TestNiceSpreadOomage" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestNiceSpreadOomage - 2020.03.31 at 18h 29m 32s.xml">
+      <configuration name="TestNiceSpreadOomage" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestSimpleOomage - 2020.03.31 at 18h 30m 34s.xml">
+      <configuration name="TestSimpleOomage" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestSimpleOomage - 2020.03.31 at 18h 31m 03s.xml">
+      <configuration name="TestSimpleOomage" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestSimpleOomage - 2020.03.31 at 18h 36m 17s.xml">
+      <configuration name="TestSimpleOomage" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestComplexOomage - 2020.04.01 at 12h 35m 30s.xml">
+      <configuration name="TestComplexOomage" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestComplexOomage - 2020.04.01 at 14h 32m 25s.xml">
+      <configuration name="TestComplexOomage" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestComplexOomage - 2020.04.01 at 14h 32m 58s.xml">
+      <configuration name="TestComplexOomage" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestComplexOomage - 2020.04.01 at 14h 34m 25s.xml">
+      <configuration name="TestComplexOomage" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="11400000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.254717" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3292517" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="bottom" id="Style Checker" order="13" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/openjdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="589" column="19" selection-start-line="589" selection-start-column="19" selection-end-line="589" selection-end-column="19" />
+          <folding>
+            <element signature="e#24522#24523#0" expanded="true" />
+            <element signature="e#24576#24577#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/openjdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/HashSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="203" column="26" selection-start-line="203" selection-start-column="26" selection-end-line="203" selection-end-column="26" />
+          <folding>
+            <element signature="e#8398#8399#0" expanded="true" />
+            <element signature="e#8439#8440#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/openjdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="147" column="8" selection-start-line="147" selection-start-column="8" selection-end-line="147" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw3/hash/TestNiceSpreadOomage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="17" lean-forward="true" selection-start-column="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw3/hash/TestJankyOomage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw3/hash/OomageTestUtility.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw3/hash/TestSimpleOomage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="69" selection-start-line="69" selection-end-line="69" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw3/hash/Oomage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw3/hash/HashTableVisualizer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="858">
+          <caret line="40" column="9" selection-start-line="40" selection-start-column="9" selection-end-line="40" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw3/hash/Hint.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw3/hash/TestComplexOomage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw3/hash/SimpleOomage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="18" column="24" lean-forward="true" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw3/hash/ComplexOomage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="327">
+          <caret line="28" column="5" lean-forward="true" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>12</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
